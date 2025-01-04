@@ -4,7 +4,9 @@ var accountPassword = "12345"
 let accountCity = "Jaipur"
 let accountStats ;
 
-// accountId = 2  not allowed
+/*
+prefer not to use var to avoid issue of block issue and functional issue
+ */
 accountEmail = "ranjankrtm@gmail.com"
 accountPassword = "98498"
 accountCity = "Bodhgaya"
